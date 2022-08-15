@@ -11,7 +11,6 @@ setup(
   description = 'To detect slang indian words',   # Give a short description about your library
   author = 'Shreyas Mohite',     
   long_description=long_description,
-  long_description_content_type='text/markdown',              # Type in your name
   author_email = 'shreyasmohite786@gmail.com',      # Type in your E-Mail
   url = 'https://github.com/Geeks-Vegeta',   # Provide either the link to your github or to your website
   download_url = 'https://github.com/Geeks-Vegeta/indian_profanity/archive/refs/tags/0.1.tar.gz',    # I explain this later on
