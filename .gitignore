@@ -5,6 +5,7 @@ __pycache__/
 
 # C extensions
 *.so
+abx.py
 
 # Distribution / packaging
 .Python
